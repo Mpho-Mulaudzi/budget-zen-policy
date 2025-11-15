@@ -1,4 +1,4 @@
-# Privacy Policy — Budget Zen - Money Manager
+# Privacy Policy — Budget Zen 
 
 _Last updated: October 2025_
 
@@ -9,7 +9,7 @@ This Privacy Policy explains how the app handles information provided or collect
 
 ## 1. About This App
 
-**Budget Zen - Money Manager** is a lightweight Android/iOS calculator built with Flutter.  
+**Budget Zen** is a lightweight Android/iOS calculator built with Flutter.  
 It supports both dark modes and may display banner ads provided by Google AdMob.
 
 ---
@@ -80,4 +80,5 @@ If you have any questions or concerns about this Privacy Policy, please contac
 
 
 © 2025 Budget Zen. All rights reserved.
+
 
