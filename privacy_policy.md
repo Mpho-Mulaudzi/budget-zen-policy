@@ -2,7 +2,7 @@
 
 _Last updated: October 2025_
 
-Thank you for using **Budget Zen**.  
+I **Mpho Mulaudzi** would like to Thank you for using my app **Budget Zen**.  
 This Privacy Policy explains how the app handles information provided or collected while you use it.
 
 ---
@@ -61,6 +61,7 @@ Changes will be reflected in this document with a new “last updated” dat
 ## 7. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact:  
+**Developer name** : **Mpho Mulaudzi**
 **christianmpho@gmail.com** 
 
 ---
@@ -76,5 +77,6 @@ If you have any questions or concerns about this Privacy Policy, please contac
 | **Platform Scope** | Android & iOS |
 
 ---
+
 
 © 2025 Budget Zen. All rights reserved.
